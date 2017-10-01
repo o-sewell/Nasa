@@ -69,7 +69,7 @@
 
 
   const width = window.innerWidth;
-  const height = window.innerHeight - 204 //height of container;
+  const height = window.innerHeight - 204 //height of container
   let x = 100;
   let y = 100;
   let xSpeed = 3;
